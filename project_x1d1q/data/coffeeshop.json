@@ -1,0 +1,12 @@
+{
+    "menu": [
+        {"type": "Coffee"},
+        {"type": "Latte"},
+        {"type": "Americano"},
+        {"type": "Hot Chocolate"},
+        {"type": "London Fog"},
+        {"type": "Cappuccino"},
+        {"type": "Machiatto"}
+    ],
+    "cash": 95
+}

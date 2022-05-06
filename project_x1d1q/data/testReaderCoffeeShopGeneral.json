@@ -1,0 +1,9 @@
+{
+  "menu": [
+    {"type": "Coffee"},
+    {"type": "Latte"},
+    {"type": "Americano"},
+    {"type": "Matcha Latte"}
+  ],
+  "cash": 100
+}
