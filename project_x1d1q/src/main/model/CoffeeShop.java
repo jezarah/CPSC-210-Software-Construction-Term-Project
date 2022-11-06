@@ -22,11 +22,7 @@ public class CoffeeShop implements Writable {
     // Constructs a Coffee Shop
     // EFFECTS: constructs a coffee with a cash balance and menu
     public CoffeeShop(int cash) {
-        if (cash < 0) {
-            this.cash = 0;
-        } else {
-            this.cash = cash;
-        }
+        this.cash = Math.max(cash, 0);
         menu = new ArrayList<>();
     }
 
