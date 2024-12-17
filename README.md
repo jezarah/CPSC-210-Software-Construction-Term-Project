@@ -1,4 +1,4 @@
-# My Personal Project
+# CPSC 210 - Term Project
 
 ## A Coffee Shop Simulator 
 
